@@ -4,6 +4,10 @@ defineProps({
     type: String,
     required: true
   },
+  msg1: {
+    type: String,
+    required: true
+  },
   msg2: {
     type: String,
     required: true
