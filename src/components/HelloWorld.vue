@@ -3,6 +3,10 @@ defineProps({
   msg: {
     type: String,
     required: true
+  },
+  msg2: {
+    type: String,
+    required: true
   }
 })
 </script>
